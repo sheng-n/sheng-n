@@ -1,9 +1,7 @@
 ### Hi there 👋
-
+![bio](https://github-readme-stats.vercel.app/api?username=sheng-n&show_icons=true&&hide=prs,issues)
 <!--
 **sheng-n/sheng-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![bio](https://github-readme-stats.vercel.app/api?username=sheng-n&show_icons=true&&hide=prs,issues)
 
 Here are some ideas to get you started:
 
